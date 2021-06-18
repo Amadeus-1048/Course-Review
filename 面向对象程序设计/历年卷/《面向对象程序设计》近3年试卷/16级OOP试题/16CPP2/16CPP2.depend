@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511845423 source:e:\lq\本科教学\08305121cpp\历年试题\cpp2试卷集\16级oop试题\16cpp2\main.cpp
+	<iostream>
+	<conio.h>
+
+1512012590 source:e:\lq\本科教学\08305121cpp\历年试题\cpp2试卷集\16级oop试题\16cpp2\test02.cpp
+	<iostream>
+	<cstring>
+
