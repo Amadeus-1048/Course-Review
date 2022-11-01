@@ -151,9 +151,9 @@ https://blog.csdn.net/kzadmxz/article/details/73658168
 
 # 试卷
 
-不要问是不是网上找的，哪个学校的
+不要问哪来的，怎么没有题目，只有答案
 
-做一遍，记住题型，<font color='red'>**你不会后悔**</font>
+看一遍，记住题型，<font color='red'>**你不会后悔**</font>
 
 ## 判断
 
